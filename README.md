@@ -1,4 +1,4 @@
-# mean-financial-fortress
+# Financial Fortress 
 
 This is a web application developed using Mean Stack that allows users to register, login, view their account balance, deposit or withdraw money, and view their transaction history.
 
